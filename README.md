@@ -209,8 +209,4 @@ For issues, questions, or feature requests:
 
 ***
 
-**Built with ❤️ using PostgreSQL, pgVector, LangChain, and OpenAI**
 
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85914984/33203eba-601b-4e5f-bd85-1f56ff93c3fb/app.py
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85914984/37deecd6-2aca-4428-9d02-871ac6175d58/chart_generator.py
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/85914984/98c0dd8b-690b-40de-9dbb-0591f0f5ed61/r.txt
