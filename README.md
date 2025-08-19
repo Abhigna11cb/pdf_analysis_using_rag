@@ -41,7 +41,7 @@ A sophisticated Retrieval-Augmented Generation (RAG) system built with PostgreSQ
 
 1. **Clone the repository**
    ```bash
-   git clone 
+   git clone https://github.com/Abhigna11cb/pdf_analysis_using_rag.git 
    cd rag_pdf
    ```
 
